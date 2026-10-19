@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/HamzahMazid"><img src="https://komarev.com/ghpvc/?username=HamzahMazid" alt="page views" /></a>
-  <a href="https://website-orcin-omega-22.vercel.app/"><img alt="Website" src="https://img.shields.io/website?url=[https%3A%2F%2Flumadevstudio.com](https://website-orcin-omega-22.vercel.app/)"></a>
+  <a href="https://website-orcin-omega-22.vercel.app/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwebsite-orcin-omega-22.vercel.app"></a>
   <a href="https://github.com/HamzahMazid?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/HamzahMazid?style=flat&logo=github"></a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
 </p>
@@ -63,5 +63,5 @@
 
 <!-- links -->
 
-[Luma Studio]: https://lumadevstudio.com "Luma Studio Home"
+[Luma Studio]: https://website-orcin-omega-22.vercel.app/ "Luma Studio Home"
 [issues page]: https://github.com/HamzahMazid/HamzahMazid/issues "HamzahMazid/issues"
